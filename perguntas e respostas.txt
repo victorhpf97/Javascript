@@ -1,0 +1,23 @@
+<html>
+
+<head>
+<title>Meu primeiro programa javascrpit</title>
+ 
+</head>
+
+
+<body>
+> Quem roubou o Brasil? </a> 
+
+<a href="pagina.html" onClick="alert('Voce errou a pergunta');return false;">Pedro Alvares Cabral? </a> 
+
+<a href="pagina.html" onClick="alert('Voce errou a pergunta');return false;">Fernandinho Beira Mar? </a>
+
+
+<a href="pagina.html" onClick="alert('Acertou miseravi');">LULA? </a> 
+
+ 
+ 
+
+ 
+</html>
