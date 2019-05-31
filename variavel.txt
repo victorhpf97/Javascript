@@ -1,0 +1,19 @@
+<html>
+
+<head>
+<title>Meu primeiro programa 
+
+javascrpit</title>
+</head>
+
+
+<body>
+<script type="text/javascript">
+var variavel;
+variavel="Minha primeira variavel em Js";
+alert(variavel);
+</script>
+</body> 
+
+ 
+</html>
