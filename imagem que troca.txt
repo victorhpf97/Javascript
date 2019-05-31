@@ -1,0 +1,14 @@
+<html>
+
+<head>
+<title>Meu primeiro programa javascrpit</title>
+</head>
+
+
+<body>
+<img src="bom.jpg" width="500" onmouseover="this.src='ladrao.jpg'" />
+<img src="ladrao.jpg" width="500"  ="this.src='bom.jpg'" />
+</body> 
+
+ 
+</html>
