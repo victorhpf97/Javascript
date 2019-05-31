@@ -1,0 +1,24 @@
+<html>
+
+<head>
+<title>Meu primeiro programa 
+
+javascrpit</title>
+</head>
+
+
+<body>
+<script type="text/javascript">
+var variavel1=5;
+var variavel2=6;
+ 
+if (variavel1 == 5 && variavel2 == 6){
+	document.write("verdadeiro");
+	} else{
+		document.write("falso");}
+
+</script>
+</body> 
+
+ 
+</html>
