@@ -1,0 +1,27 @@
+<html>
+
+<head>
+<title>Meu primeiro programa javascrpit</title>
+<style>
+	body{
+		background-color: rgb(105, 105, 173);
+		
+		font: normal 25pt Arial;
+		color: white;
+
+}
+</style>
+ 
+<body>
+	<h1> Este é o site do poderoso programador </h1> 
+	
+  <script>  
+window.alert('ola')
+window.confirm('Deseja me doar 100 reais ?')
+
+
+</script>	
+</body> 
+
+ 
+</html>
